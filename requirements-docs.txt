@@ -28,8 +28,9 @@ pytest==3.3.1
 pytest-asyncio==0.8.0
 requirements-tools==1.1.2
 snowballstemmer==1.2.0
-Sphinx==2.3.1
+Sphinx==3.0.4
 sphinx-rtd-theme
 toml==0.9.4
 virtualenv==15.1.0
 wrapt==1.12.1
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
