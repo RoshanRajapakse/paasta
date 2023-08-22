@@ -10,7 +10,7 @@ distlib==0.3.4
 filelock==3.0.12
 flake8==3.5.0
 freezegun==0.3.7
-hypothesis==3.71.10
+hypothesis==6.0.4
 identify==2.4.12
 imagesize==0.7.1
 importlib-metadata==1.7.0
