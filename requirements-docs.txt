@@ -33,3 +33,5 @@ sphinx-rtd-theme
 toml==0.9.4
 virtualenv==15.1.0
 wrapt==1.12.1
+certifi>=2023.7.22 # not directly required, pinned by Snyk to avoid a vulnerability
+requests>=2.31.0 # not directly required, pinned by Snyk to avoid a vulnerability
