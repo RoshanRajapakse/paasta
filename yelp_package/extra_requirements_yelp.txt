@@ -39,3 +39,4 @@ yelp-lib==17.1.0
 yelp-logging==1.0.37
 yelp_meteorite==2.1.3
 yelp_profiling==9.1.1
+aiohttp>=3.9.0 # not directly required, pinned by Snyk to avoid a vulnerability
