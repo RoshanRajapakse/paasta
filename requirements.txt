@@ -1,6 +1,6 @@
 a-sync==0.5.0
 addict==2.1.0
-aiohttp==3.7.4.post0
+aiohttp==3.9.2
 argcomplete==0.8.1
 argparse==1.4.0
 arrow==1.1.0
@@ -14,7 +14,7 @@ botocore==1.14.11
 bravado==10.4.1
 bravado-core==5.12.1
 cachetools==2.0.1
-certifi==2017.11.5
+certifi==2023.7.22
 chardet==3.0.4
 choice==0.1
 click==6.6
@@ -81,7 +81,7 @@ pytimeparse==1.1.5
 pytz==2016.10
 pyyaml==5.4.1
 repoze.lru==0.6
-requests==2.25.0
+requests==2.31.0
 requests-cache==0.6.3
 requests-oauthlib==1.2.0
 requests-toolbelt==0.9.1
@@ -111,7 +111,7 @@ translationstring==1.3
 typing-extensions==4.3.0
 tzlocal==1.2
 url-normalize==1.4.2
-urllib3==1.24.3
+urllib3==1.26.18
 utaw==0.2.0
 venusian==1.1.0
 webcolors==1.7
