@@ -50,3 +50,4 @@ virtualenv==20.4.3
 wrapt==1.12.1
 zake==0.2.2
 zipp==0.5.2
+urllib3>=2.2.2 # not directly required, pinned by Snyk to avoid a vulnerability
