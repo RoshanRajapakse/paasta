@@ -17,3 +17,4 @@ requirements-tools
 Sphinx
 sphinx-rtd-theme
 zake
+urllib3>=2.2.2 # not directly required, pinned by Snyk to avoid a vulnerability
