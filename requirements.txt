@@ -115,7 +115,7 @@ urllib3==1.24.3
 utaw==0.2.0
 venusian==1.1.0
 webcolors==1.7
-WebOb==1.7.4
+WebOb==1.8.8
 websocket-client==0.44.0
 whichcraft==0.4.0
 ws4py==0.5.1
