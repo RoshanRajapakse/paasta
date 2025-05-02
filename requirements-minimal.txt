@@ -62,3 +62,4 @@ tzlocal
 urllib3
 utaw >= 0.2.0
 wsgicors
+setuptools>=78.1.1 # not directly required, pinned by Snyk to avoid a vulnerability
